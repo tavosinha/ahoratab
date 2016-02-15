@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -13,7 +13,8 @@
   		<div class="row">
   			<div class="col-md-12">  				
     			<h1>Hello, world!</h1>
-    			<p>Parrafo de prueba para git</p>
+    			<p>Párrafo de prueba para git</p>
+    			<p>Otro párrafo de ejemplo</p>
   			</div>
   		</div>
   	</div>
