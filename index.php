@@ -7,6 +7,7 @@
     <title>Ahora Tabasco</title>
     <!-- Bootstrap -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="public/css/estilos.css">
   </head>
   <body>
   	<div class="container">
