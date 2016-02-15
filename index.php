@@ -14,7 +14,8 @@
   		<div class="row">
   			<div class="col-md-12">  				
     			<div class="jumbotron">
-            <h1>Jumbotron!</h1>           
+            <h1>Jumbotron!</h1>
+            <button class="btn btn-success">Haz click</button>    
           </div>
   			</div>
   		</div>
