@@ -13,9 +13,9 @@
   	<div class="container">
   		<div class="row">
   			<div class="col-md-12">  				
-    			<h1>Hello, world!</h1>
-    			<p>Párrafo de prueba para git</p>
-    			<p>Otro párrafo de ejemplo</p>
+    			<div class="jumbotron">
+            <h1>Jumbotron!</h1>           
+          </div>
   			</div>
   		</div>
   	</div>
